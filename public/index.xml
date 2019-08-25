@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site test</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site test</description>
+    <title>grokkingtech.io</title>
+    <link>https://grokkingtech.io/</link>
+    <description>Recent content on grokkingtech.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2019 12:02:37 -0700</lastBuildDate>
+    <copyright>Carlisia Campos</copyright>
+    <lastBuildDate>Sun, 28 Sep 2014 02:13:50 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grokkingtech.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sun, 25 Aug 2019 12:02:37 -0700</pubDate>
+      <title>Creating a New Theme</title>
+      <link>https://grokkingtech.io/posts/my-first-post/</link>
+      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>testcd the asdf
-asdf</description>
+      <guid>https://grokkingtech.io/posts/my-first-post/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
   </channel>
