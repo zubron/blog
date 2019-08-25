@@ -1,3 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My New Hugo Site test"
+
+theme = "hugo-future-imperfect-slim"
+# theme = "ananke"
+# theme = "imperfect"
+# theme = "hugo-icarus-theme"
