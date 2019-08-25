@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "My New Hugo Site test"
 
 # theme = "hugo-future-imperfect-slim"
-theme = "ghostwriter"
+theme = "ghostwriter2"
 # theme = "imperfect"
 # theme = "hugo-icarus-theme"
 
