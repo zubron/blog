@@ -1,8 +1,8 @@
 +++
-title = "Creating a New Theme"
-description = "Description of my awesome project."
+title = "Creating a New Post"
+description = "Description placeholder"
 date = 2014-09-28T02:13:50Z
-author = "Michael Henderson"
+author = "Carlisia Campos"
 +++
 
 ## Introduction

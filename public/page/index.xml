@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>grokkingtech.io</title>
-    <link>https://grokkingtech.io/</link>
-    <description>Recent content on grokkingtech.io</description>
+    <title>Pages on grokkingtech.io</title>
+    <link>https://grokkingtech.io/page/</link>
+    <description>Recent content in Pages on grokkingtech.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Carlisia Campos</copyright>
     <lastBuildDate>Sun, 28 Sep 2014 02:13:50 +0000</lastBuildDate>
     
-	<atom:link href="https://grokkingtech.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grokkingtech.io/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       
       <guid>https://grokkingtech.io/page/about/</guid>
       <description>Things I Do Community building  I am a core member of GoBridge , a non-profit organization that focuses on programming education using Go: we work to ensure that groups of underrepresented people and people with limited access to technology have as much an opportunity to teach and learn Go as anyone else. I host the North County San Diego Gophers meetup.  I lead the San Diego Women Who Go chapter (and am looking for more women to join in the efforts.</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Post</title>
-      <link>https://grokkingtech.io/my-first-post/</link>
-      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
-      
-      <guid>https://grokkingtech.io/my-first-post/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
   </channel>

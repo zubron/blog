@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://grokkingtech.io/page/about/</loc>
+    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://grokkingtech.io/my-first-post/</loc>
     <lastmod>2014-09-28T02:13:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://grokkingtech.io/</loc>
+    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grokkingtech.io/page/</loc>
     <lastmod>2014-09-28T02:13:50+00:00</lastmod>
   </url>
   
