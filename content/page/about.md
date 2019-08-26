@@ -1,5 +1,5 @@
 +++
-title = "Carlisia Campos"
+title = "Background"
 description = "OSS developer at VMWare"
 date = 2019-08-26T02:13:50Z
 author = "Carlisia Campos"
@@ -24,13 +24,13 @@ author = "Carlisia Campos"
 
 ## Speaking
 
-### Playlist of conference talks
+### Playlist of available conference and other talks
 
 {{< yt PLDG197Zc9qRTSISBK5XaIYGO_YhrMg6ZX >}}
 
 ### My decks: https://speakerdeck.com/carlisia
 </br>
-## Community things
+## Community building
 
 * I am a founding member of <a href="http://golangbridge.org" target="_blank" title="gobridge">GoBridge</a> , a non-profit organization that focuses on programming education using Go: we work to ensure that groups of underrepresented people and people with limited access to technology have as much an opportunity to teach and learn Go as anyone else.</br>
 * I have been hosting the <a href="http://www.meetup.com/San-Diego-Kubernetes-Meetup/" target="_blank" title="San Diego Kubernetes Meetup">San Diego Kubernetes meetup</a>, part of the CNCF group of meetups, since 2019.</br>
