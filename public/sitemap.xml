@@ -8,17 +8,17 @@
   </url>
   
   <url>
+    <loc>https://grokkingtech.io/</loc>
+    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://grokkingtech.io/posts/</loc>
     <lastmod>2014-09-28T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://grokkingtech.io/posts/post/</loc>
-    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://grokkingtech.io/posts/tags/</loc>
+    <loc>https://grokkingtech.io/tags/</loc>
   </url>
   
 </urlset>

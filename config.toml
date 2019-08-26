@@ -1,4 +1,4 @@
-baseURL = "https://grokkingtech.io/posts/"
+baseURL = "https://grokkingtech.io/"
 languageCode = "en-us"
 title = "grokkingtech.io"
 copyright = "Carlisia Campos"
@@ -26,7 +26,7 @@ theme = "ghostwriter2"
     tag = "tags"
 
 [Params]
-    mainSections = ["post"]
+    mainSections = ["posts"]
     intro = true
     headline = "Carlisia's blog"
     description = "Blogging mostly about cloud native technologies and concepts"

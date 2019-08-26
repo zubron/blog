@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>grokkingtech.io</title>
-    <link>https://grokkingtech.io/posts/</link>
+    <link>https://grokkingtech.io/</link>
     <description>Recent content on grokkingtech.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Carlisia Campos</copyright>
     <lastBuildDate>Sun, 28 Sep 2014 02:13:50 +0000</lastBuildDate>
     
-	<atom:link href="https://grokkingtech.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grokkingtech.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
