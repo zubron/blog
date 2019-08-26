@@ -3,12 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://grokkingtech.io/posts/my-first-post/</loc>
-    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://grokkingtech.io/</loc>
+    <loc>https://grokkingtech.io/posts/2014/09/28/my-first-post/</loc>
     <lastmod>2014-09-28T02:13:50+00:00</lastmod>
   </url>
   
@@ -18,7 +13,12 @@
   </url>
   
   <url>
-    <loc>https://grokkingtech.io/tags/</loc>
+    <loc>https://grokkingtech.io/posts/post/</loc>
+    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grokkingtech.io/posts/tags/</loc>
   </url>
   
 </urlset>

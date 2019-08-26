@@ -1,4 +1,4 @@
-baseURL = "https://grokkingtech.io/"
+baseURL = "https://grokkingtech.io/posts/"
 languageCode = "en-us"
 title = "grokkingtech.io"
 copyright = "Carlisia Campos"
@@ -9,11 +9,12 @@ theme = "ghostwriter2"
     profile = "https://twitter.com/carlisia"
 
 [Permalinks]
-    post = "/:year/:month/:day/:filename/"
+    # post = "/:year/:month/:day/:filename/"
+    post = "/:filename/"
 
 [[menu.main]]
     name = "Blog"
-    url = "/posts"
+    url = "/"
     weight = 1
 
 [[menu.main]]
