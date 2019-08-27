@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Carlisia Campos</copyright>
-    <lastBuildDate>Sun, 28 Sep 2014 02:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 02:13:50 +0000</lastBuildDate>
     
 	<atom:link href="https://grokkingtech.io/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Carlisia Campos</title>
+      <title>OSS developer</title>
       <link>https://grokkingtech.io/page/about/</link>
-      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
+      <pubDate>Mon, 26 Aug 2019 02:13:50 +0000</pubDate>
       
       <guid>https://grokkingtech.io/page/about/</guid>
-      <description> Things I Do Some community building  I am a founding member of GoBridge , a non-profit organization that focuses on programming education using Go: we work to ensure that groups of underrepresented people and people with limited access to technology have as much an opportunity to teach and learn Go as anyone else. I host the North County San Diego Gophers meetup.   </description>
+      <description>Beyond coding Podcasting As host  Currently working on launching a podcast about cloud native technology and concepts. Will be out second half of 2019, stay tuned. I co-hosted the Go Time podcast show alongside the wonderful human beings Erik St. Martin and Brian Ketelsen from 2016 until 2018 (episodes 1 to 79).   As guest  Virtually Speaking Podcast - Velero PodCTL Podcast - Understanding Project Velero (formerly Ark) Getup Cloud Podcast - (Portuguese) KubeCon Day 3 — A Importância de Contribuir</description>
     </item>
     
   </channel>

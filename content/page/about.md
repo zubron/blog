@@ -1,9 +1,10 @@
 +++
-title = "Background"
-description = "OSS developer at VMWare"
+title = "OSS developer"
+description = "Maintainer of Velero.io at VMWare"
 date = 2019-08-26T02:13:50Z
 author = "Carlisia Campos"
 +++
+# Beyond coding
 <img src="/images/headshot-small.jpg" alt="Carlisia Campos" title="Carlisia Campos" width="450" height="400" align="right"/>
 
 ## Podcasting
@@ -11,7 +12,7 @@ author = "Carlisia Campos"
 ### As host
 
 * Currently working on launching a podcast about cloud native technology and concepts. Will be out second half of 2019, stay tuned.
-* I co-hosted the **[Go Time](https://changelog.com/gotime)** podcast show alongside the wonderful human beings [Erik St. Martin](https://twitter.com/erikstmartin) and [Brian Ketelsen](https://twitter.com/bketelsen) from 2016 until 2018.
+* I co-hosted the **[Go Time](https://changelog.com/gotime)** podcast show alongside the wonderful human beings [Erik St. Martin](https://twitter.com/erikstmartin) and [Brian Ketelsen](https://twitter.com/bketelsen) from 2016 until 2018 (episodes 1 to 79).
 </br>
 
 ### As guest
@@ -24,7 +25,7 @@ author = "Carlisia Campos"
 
 ## Speaking
 
-### Playlist of available conference and other talks
+### Playlist of available conference and other video recordings
 
 {{< yt PLDG197Zc9qRTSISBK5XaIYGO_YhrMg6ZX >}}
 
@@ -33,5 +34,5 @@ author = "Carlisia Campos"
 ## Community building
 
 * I am a founding member of <a href="http://golangbridge.org" target="_blank" title="gobridge">GoBridge</a> , a non-profit organization that focuses on programming education using Go: we work to ensure that groups of underrepresented people and people with limited access to technology have as much an opportunity to teach and learn Go as anyone else.</br>
-* I have been hosting the <a href="http://www.meetup.com/San-Diego-Kubernetes-Meetup/" target="_blank" title="San Diego Kubernetes Meetup">San Diego Kubernetes meetup</a>, part of the CNCF group of meetups, since 2019.</br>
-* I co-hosted the <a href="http://www.meetup.com/sdgophers/" target="_blank" title="sdgophers">North County San Diego Gophers meetup</a> from 2015 until 2018. </br>
+* I have been hosting the <a href="http://www.meetup.com/San-Diego-Kubernetes-Meetup/" target="_blank" title="San Diego Kubernetes Meetup">San Diego Kubernetes meetup</a>, part of the <a href="https://www.meetup.com/pro/cncf/" target="_blank" title="CNCF Meetup">CNCF group of meetups</a>, since 2019.</br>
+* I co-hosted the <a href="http://www.meetup.com/sdgophers/" target="_blank" title="sdgophers">North County & Downtown San Diego Gophers meetup</a> from 2015 until 2018. </br>

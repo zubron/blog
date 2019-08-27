@@ -6,10 +6,9 @@ theme = "ghostwriter2"
 
 [Author]
     name = "Carlisia Campos"
-    profile = "https://twitter.com/carlisia"
+    profile = "/page/about/"
 
 [Permalinks]
-    # post = "/:year/:month/:day/:filename/"
     post = "/:filename/"
 
 [[menu.main]]
@@ -25,6 +24,10 @@ theme = "ghostwriter2"
 [Taxonomies]
     tag = "tags"
 
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+  
 [Params]
     mainSections = ["post"]
     intro = true
