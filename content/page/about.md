@@ -2,10 +2,10 @@
 title = "OSS developer"
 description = "Maintainer of Velero.io at VMWare"
 date = 2019-08-26T02:13:50Z
-author = "Carlisia Campos"
+author = "Carlisia Thompson"
 +++
 # Beyond coding
-<img src="/images/headshot-small.jpg" alt="Carlisia Campos" title="Carlisia Campos" width="450" height="400" align="right"/>
+<img src="/images/headshot-small.jpg" alt="Carlisia Thompson" title="Carlisia Thompson" width="450" height="400" align="right"/>
 
 ## Podcasting
 
