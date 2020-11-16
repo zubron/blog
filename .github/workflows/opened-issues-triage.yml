@@ -1,0 +1,15 @@
+name: Move new issues into Triage
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  automate-project-columns:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: carlisia/github-project-automation-plus@master
+        with:
+          project: "Support Triage Board"
+          column: "Needs Triage"
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
