@@ -5,12 +5,12 @@ on:
     types: [opened]
 
 env:
-  GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+  MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
 
 jobs:
   assign_one_project:
     runs-on: ubuntu-latest
-    name: Assign to One Project
+    name: Add new issues
     steps:
     - name: Move NEW issues into the Velero Support Triage board
       uses: srggrs/assign-one-project-github-action@1.2.0
