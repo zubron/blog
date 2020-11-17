@@ -10,6 +10,6 @@ jobs:
     steps:
       - uses: carlisia/github-project-automation-plus@master
         with:
-          project: "Support Triage Board"
+          project: "Support Triage Board - old"
           column: "Needs Triage"
           repo-token: ${{ secrets.GH_TOKEN }}
