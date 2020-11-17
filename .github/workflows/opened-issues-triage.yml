@@ -4,12 +4,17 @@ on:
   issues:
     types: [opened]
 
+env:
+  GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
 jobs:
-  automate-project-columns:
+  assign_one_project:
     runs-on: ubuntu-latest
+    name: Assign to One Project
     steps:
-      - uses: carlisia/github-project-automation-plus@master
-        with:
-          project: "Support Triage Board - old"
-          column: "Needs Triage"
-          repo-token: ${{ secrets.GH_TOKEN }}
+    - name: Move NEW issues into the Velero Support Triage board
+      uses: srggrs/assign-one-project-github-action@1.2.0
+      if: github.event.action == 'opened'
+      with:
+        project: 'https://github.com/users/carlisia/projects/2'
+        column_name: 'Needs Triage'
