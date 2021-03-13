@@ -1,4 +1,4 @@
-name: Auto Request Review
+name: "Auto Request Review"
 
 on:
   pull_request:
