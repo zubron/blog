@@ -8,7 +8,7 @@ author = "Carlisia Thompson"
 <img src="/images/headshot-small.jpg" alt="Carlisia Thompson" title="Carlisia Thompson" width="450" height="400" align="right"/>
 
 ## Podcasting
-
+asdf
 ### As host
 
 * I am currently recording a podcast that covers cloud native technology and concepts. We will be laundhing it in the coming weeks. Stay tuned!
