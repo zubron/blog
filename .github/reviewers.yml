@@ -5,11 +5,11 @@ reviewers:
 
   groups:
     maintainers:
-      - zubron
+      - carlisia
       - ardan-bkennedy
       - ashish-amarnath
     tech-writer:
-      - carlisia 
+      - zubron 
 
 files:
   'public/**':
