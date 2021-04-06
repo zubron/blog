@@ -1,16 +1,25 @@
 reviewers:
   # The default reviewers
   defaults:
-    - carlisia 
-    - zubron
-    - ardan-bkennedy
-    - ashish-amarnath
+    - maintainers
+
+  groups:
+    maintainers:
+      - zubron
+      - ardan-bkennedy
+      - ashish-amarnath
+    tech-writer:
+      - carlisia 
+
+files:
+  'public/**':
+    - tech-writer
 
 options:
   ignore_draft: true
   ignored_keywords:
     - WIP 
-  enable_group_assignment: false
+  enable_group_assignment: true
 
   # Randomly pick reviewers up to this number.
   # Do not set this option if you'd like to assign all matching reviewers.
