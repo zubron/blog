@@ -7,15 +7,13 @@ reviewers:
 
   groups:
     maintainers:
-      - nrb
-      - ashish-amarnath
-      - carlisia
-      - zubron
-      - dsu-igeek
-      - jenting
+    - carlisia 
+    - zubron
+    - ardan-bkennedy
+    - ashish-amarnath
 
     tech-writer:
-      - a-mccarthy 
+      - zubron 
 
 files:
   'site/**':
