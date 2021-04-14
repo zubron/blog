@@ -5,15 +5,21 @@ reviewers:
 
   groups:
     maintainers:
-      - carlisia
-      - ardan-bkennedy
+      - nrb
       - ashish-amarnath
+      - carlisia
+      - zubron
+      - dsu-igeek
+      - jenting
+
     tech-writer:
-      - zubron 
+      - a-mccarthy 
 
 files:
-  'public/**':
+  'site/**':
     - tech-writer
+  '/design/**':
+    - maintainers
 
 options:
   ignore_draft: true
@@ -24,3 +30,5 @@ options:
   # Randomly pick reviewers up to this number.
   # Do not set this option if you'd like to assign all matching reviewers.
   number_of_reviewers: 2
+
+ addAssignees: author
