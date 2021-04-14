@@ -1,3 +1,5 @@
+addAssignees: author
+
 reviewers:
   # The default reviewers
   defaults:
@@ -31,4 +33,3 @@ options:
   # Do not set this option if you'd like to assign all matching reviewers.
   number_of_reviewers: 2
 
-addAssignees: author
