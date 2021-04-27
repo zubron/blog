@@ -1,0 +1,34 @@
+# This assigns a PR to its author
+addAssignees: author
+
+reviewers:
+  # The default reviewers
+  defaults:
+    - maintainers
+
+  groups:
+    maintainers:
+    - carlisia 
+    - zubron
+    - ardan-bkennedy
+    - ashish-amarnath
+
+    tech-writer:
+      - ardan-bkennedy 
+
+files:
+  'site/**':
+    - tech-writer
+  '/design/**':
+    - maintainers
+
+options:
+  ignore_draft: true
+  ignored_keywords:
+    - WIP 
+  enable_group_assignment: true
+
+  # Randomly pick reviewers up to this number.
+  # Do not set this option if you'd like to assign all matching reviewers.
+  number_of_reviewers: 2
+

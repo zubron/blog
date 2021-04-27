@@ -1,3 +1,5 @@
+---
+# This assigns a PR to its author
 addAssignees: author
 
 reviewers:
@@ -7,27 +9,28 @@ reviewers:
 
   groups:
     maintainers:
-    - carlisia 
-    - zubron
-    - ardan-bkennedy
-    - ashish-amarnath
+      - carlisia
+      - zubron
+      - ardan-bkennedy
+      - ashish-amarnath
 
     tech-writer:
-      - zubron 
+      - ardan-bkennedy
 
 files:
-  'site/**':
+  'public/**':
     - tech-writer
-  '/design/**':
-    - maintainers
+  '**/*.md':
+    - tech-writer
 
 options:
   ignore_draft: true
   ignored_keywords:
-    - WIP 
+    - WIP
+    - wip
+    - DO NOT MERGE
   enable_group_assignment: true
 
-  # Randomly pick reviewers up to this number.
-  # Do not set this option if you'd like to assign all matching reviewers.
-  number_of_reviewers: 2
-
+# Randomly pick reviewers up to this number.
+# Do not set this option if you'd like to assign all matching reviewers.
+number_of_reviewers: 2
